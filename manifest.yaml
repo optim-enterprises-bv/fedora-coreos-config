@@ -4,6 +4,10 @@ variables:
 
 releasever: 36
 
+packages:
+- hdparm
+- crio
+
 repos:
   # These repos are there to make it easier to add new packages to the OS and to
   # use `cosa fetch --update-lockfile`; but note that all package versions are
