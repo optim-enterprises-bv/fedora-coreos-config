@@ -15,5 +15,6 @@ repos:
   # GitHub Action.
   - fedora
   - fedora-updates
+  - kubernetes
 
 include: manifests/fedora-coreos.yaml
