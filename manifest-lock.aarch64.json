@@ -858,9 +858,6 @@
     "mdadm": {
       "evra": "4.2-1.fc36.aarch64"
     },
-    "moby-engine": {
-      "evra": "20.10.16-1.fc36.aarch64"
-    },
     "mokutil": {
       "evra": "2:0.6.0-1.fc36.aarch64"
     },

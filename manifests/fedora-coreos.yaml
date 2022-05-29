@@ -43,8 +43,6 @@ packages:
   # the archive repo for more reliable package layering
   # https://github.com/coreos/fedora-coreos-tracker/issues/400
   - fedora-repos-archive
-  # CL ships this.
-  - moby-engine
   # Already pulled in by moby-engine, but let's be explicit. Typhoon uses it.
   - containerd
   # User metrics
@@ -59,7 +57,6 @@ etc-group-members:
   # https://github.com/coreos/fedora-coreos-tracker/issues/2
   # This will be no longer needed when systemd-sysusers has been implemented:
   # https://github.com/projectatomic/rpm-ostree/issues/49
-  - docker
 
 # ⚠⚠⚠ ONLY TEMPORARY HACKS ALLOWED HERE; ALL ENTRIES NEED TRACKER LINKS ⚠⚠⚠
 # See also the version of this in fedora-coreos-base.yaml

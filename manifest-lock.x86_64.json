@@ -870,9 +870,6 @@
     "microcode_ctl": {
       "evra": "2:2.1-51.fc36.x86_64"
     },
-    "moby-engine": {
-      "evra": "20.10.16-1.fc36.x86_64"
-    },
     "mokutil": {
       "evra": "2:0.6.0-1.fc36.x86_64"
     },
