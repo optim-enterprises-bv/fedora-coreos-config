@@ -7,6 +7,8 @@ releasever: 36
 packages:
 - hdparm
 - crio
+- make
+- buildah
 - ipvsadm
 - kubeadm
 - kubectl
