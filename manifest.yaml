@@ -13,9 +13,6 @@ packages:
 - kubeadm
 - kubectl
 - kubelet
-- python-pip
-- python-devel
-- libffi-devel
 - gcc
 - g++
 - wget
