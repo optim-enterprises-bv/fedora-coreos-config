@@ -13,6 +13,12 @@ packages:
 - kubeadm
 - kubectl
 - kubelet
+- python-pip
+- python-devel
+- libffi-devel
+- gcc
+- g++
+- wget
 
 repos:
   # These repos are there to make it easier to add new packages to the OS and to
