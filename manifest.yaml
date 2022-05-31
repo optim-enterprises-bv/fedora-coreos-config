@@ -16,6 +16,7 @@ packages:
 - gcc
 - g++
 - wget
+- zsh
 
 repos:
   # These repos are there to make it easier to add new packages to the OS and to
