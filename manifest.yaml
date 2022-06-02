@@ -13,8 +13,6 @@ packages:
 - kubeadm
 - kubectl
 - kubelet
-- gcc
-- g++
 - wget
 - zsh
 
